@@ -10,6 +10,9 @@
 ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-1501&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-1501&hide=javascript,html)](https://github.com/Shakil-1501/github-readme-stats)
+
+
 
 
 
