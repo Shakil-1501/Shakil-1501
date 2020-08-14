@@ -1,7 +1,13 @@
 ### Hi there, I'm Shakil 👋
 
-[linkedin]: https://www.linkedin.com/in/md-shakiluzzaman-894707129/
+![Twitter Follow](https://img.shields.io/twitter/follow/Shakiluzzaman00?style=social)
 
+- 🔭 I’m currently working on Computer Vision
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate with other content creators
+
+
+![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-1501&show_icons=true&theme=radical)
 
 
 
