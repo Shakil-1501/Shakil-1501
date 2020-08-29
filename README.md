@@ -1,6 +1,6 @@
 ### Hi there, I'm Shakil 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Shakiluzzaman00?style=social)
+
 
 **Connect with me** :
 
