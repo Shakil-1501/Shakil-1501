@@ -2,6 +2,13 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Shakiluzzaman00?style=social)
 
+**Connect with me** :
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
